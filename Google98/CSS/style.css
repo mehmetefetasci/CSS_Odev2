@@ -1,0 +1,32 @@
+.container{
+    
+    width: 351px;
+    height: 113px;
+
+}
+.middle{
+    margin: auto;
+}
+.small{
+    font-size: small;
+}
+.tp1{
+    width: 38.5%;
+    height: 100px;
+    margin-left: 5px;
+    float: left;
+}
+
+.tp2{
+    width: 15%;
+    height: 100px;
+    margin-left: 5px;
+    float: left;
+}
+
+.tp3{
+    width: 45.4%;
+    height: 100px;
+    margin-left: 5px;
+    float: left;
+}
